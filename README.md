@@ -1,3 +1,3 @@
 # Project-Nutrition 
 
-A Project dedicated to Nutrition & Health Data
+A Project dedicated to Nutrition & Health Data Visualizations & Explorations
